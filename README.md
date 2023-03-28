@@ -4,7 +4,7 @@ This is frontend starter project for nodejs-aws mentoring program. It uses the f
 
 [S3 Bucket](http://aws-react-shop.s3-website-us-east-1.amazonaws.com/)
 
-[CloudFront](d1s45q311nhhj4.cloudfront.net)
+[CloudFront](http://d1s45q311nhhj4.cloudfront.net)
 
 - [Vite](https://vitejs.dev/) as a project bundler
 - [React](https://beta.reactjs.org/) as a frontend framework
